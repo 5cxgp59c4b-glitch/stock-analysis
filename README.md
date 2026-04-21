@@ -36,7 +36,7 @@ pip install pandas matplotlib scikit-learn openpyxl
 
 ・データファイル（stock-seveneleven.xlsx）
 
--コードを実行
+・コードを実行
 ## 分析結果
 ・出来高変化率と株価リターン及び、出来高と株価の両者の相関係数は非常に小さく、両者の関係は見られなかった
 
