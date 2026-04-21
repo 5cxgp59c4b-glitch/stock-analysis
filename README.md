@@ -58,5 +58,6 @@ pip install pandas matplotlib scikit-learn openpyxl
 
 
 データファイル（stock-seveneleven.xlsx）は本リポジトリ内に含まれています。
+
 データ出典：Yahoo!ファイナンス
 
